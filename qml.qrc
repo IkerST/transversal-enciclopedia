@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Page1Form.ui.qml</file>
+        <file>Page2Form.ui.qml</file>
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>images/coo-acoplamiento.jpg</file>
+        <file>images/coo-cambio.jpg</file>
+        <file>images/coo-diferenciacion.jpg</file>
+        <file>images/coo-equilibrio.jpg</file>
+        <file>images/coo-orientacion.jpg</file>
+        <file>images/coo-relajacion.jpg</file>
+        <file>images/coo-ritmo.jpg</file>
+        <file>images/cog-atencion.jpg</file>
+        <file>images/cog-comprension.jpg</file>
+        <file>images/cog-funciones-ejecutivas.jpg</file>
+        <file>images/cog-lenguaje.jpg</file>
+        <file>images/cog-memoria.jpg</file>
+        <file>images/cog-metacognicion.jpg</file>
+        <file>images/cog-orientacion.jpg</file>
+        <file>images/cog-percepcion.jpg</file>
+        <file>images/cog-praxias.jpg</file>
+        <file>images/cog-razonamiento.jpg</file>
+    </qresource>
+</RCC>
