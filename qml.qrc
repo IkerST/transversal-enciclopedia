@@ -21,5 +21,16 @@
         <file>images/cog-percepcion.jpg</file>
         <file>images/cog-praxias.jpg</file>
         <file>images/cog-razonamiento.jpg</file>
+        <file>Page3Form.ui.qml</file>
+        <file>portafolio/output-01.jpg</file>
+        <file>portafolio/output-02.jpg</file>
+        <file>portafolio/output-03.jpg</file>
+        <file>portafolio/output-04.jpg</file>
+        <file>portafolio/output-05.jpg</file>
+        <file>portafolio/output-06.jpg</file>
+        <file>portafolio/output-07.jpg</file>
+        <file>portafolio/output-08.jpg</file>
+        <file>portafolio/output-09.jpg</file>
+        <file>portafolio/output-10.jpg</file>
     </qresource>
 </RCC>

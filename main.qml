@@ -207,6 +207,10 @@ ApplicationWindow {
                 rectangle10_1.visible = false
             }
         }
+        Page3Form {
+        }
+        //Page4Form {
+        //}
     }
 
     footer: TabBar {
@@ -219,6 +223,14 @@ ApplicationWindow {
         }
         TabButton {
             text: qsTr("Capacidades Cognitivas")
+            font.pointSize: 11
+        }
+        TabButton {
+            text: qsTr("Portafolio")
+            font.pointSize: 11
+        }
+        TabButton {
+            text: qsTr("Mapas")
             font.pointSize: 11
         }
     }
